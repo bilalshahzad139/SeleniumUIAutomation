@@ -16,3 +16,38 @@
 /Task3/SelinumTest/obj
 /Task1/SelHelper/obj
 /Task4_Exercise/SeleniumTesting/obj
+/UI Testing/Task1_UITesting_LoginTest/packages
+/UI Testing/Task5_UITesting_NUnit/packages
+/UI Testing/Supporting_WebApp/WebApp/packages
+/UI Testing/Task4_UITesting_ShowAll/packages
+/UI Testing/Task3_UITesting_NewProduct/packages
+/UI Testing/Task2_UITesting_LoginTest2/packages
+/UI Testing/Supporting_WebApp/WebApp/.vs
+/UI Testing/Supporting_WebApp/WebApp/WebPrac/bin
+/UI Testing/Task5_UITesting_NUnit/SeleniumWithNunit.Tests/bin
+/UI Testing/Supporting_WebApp/WebApp/DBPractice/bin
+/UI Testing/Supporting_WebApp/WebApp/PMS.BAL/bin
+/UI Testing/Supporting_WebApp/WebApp/PMS.DAL/bin
+/UI Testing/Supporting_WebApp/WebApp/PMS.Entities/bin
+/UI Testing/Task4_UITesting_ShowAll/SelHelper/bin
+/UI Testing/Task4_UITesting_ShowAll/SelinumTest/bin
+/UI Testing/Task3_UITesting_NewProduct/SelHelper/bin
+/UI Testing/Task3_UITesting_NewProduct/SelinumTest/bin
+/UI Testing/Task2_UITesting_LoginTest2/SelHelper/bin
+/UI Testing/Task2_UITesting_LoginTest2/SelinumTest/bin
+/UI Testing/Task1_UITesting_LoginTest/SelHelper/bin
+/UI Testing/Task1_UITesting_LoginTest/SelinumTest/bin
+/UI Testing/Task3_UITesting_NewProduct/SelinumTest/obj
+/UI Testing/Task2_UITesting_LoginTest2/SelHelper/obj
+/UI Testing/Task2_UITesting_LoginTest2/SelinumTest/obj
+/UI Testing/Task1_UITesting_LoginTest/SelHelper/obj
+/UI Testing/Task1_UITesting_LoginTest/SelinumTest/obj
+/UI Testing/Task5_UITesting_NUnit/SeleniumWithNunit.Tests/obj
+/UI Testing/Supporting_WebApp/WebApp/DBPractice/obj
+/UI Testing/Supporting_WebApp/WebApp/PMS.BAL/obj
+/UI Testing/Supporting_WebApp/WebApp/PMS.DAL/obj
+/UI Testing/Supporting_WebApp/WebApp/PMS.Entities/obj
+/UI Testing/Supporting_WebApp/WebApp/WebPrac/obj
+/UI Testing/Task4_UITesting_ShowAll/SelHelper/obj
+/UI Testing/Task4_UITesting_ShowAll/SelinumTest/obj
+/UI Testing/Task3_UITesting_NewProduct/SelHelper/obj
