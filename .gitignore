@@ -51,3 +51,7 @@
 /UI Testing/Task4_UITesting_ShowAll/SelHelper/obj
 /UI Testing/Task4_UITesting_ShowAll/SelinumTest/obj
 /UI Testing/Task3_UITesting_NewProduct/SelHelper/obj
+/UI Testing/Work_During_Session/.vs
+/UI Testing/Work_During_Session/packages
+/UI Testing/Work_During_Session/SeleniumTesting/bin
+/UI Testing/Work_During_Session/SeleniumTesting/obj
